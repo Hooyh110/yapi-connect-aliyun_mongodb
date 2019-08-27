@@ -18,7 +18,7 @@ db.createUser({user:"<db_user>",pwd:"<db_password>", roles: [{ role: "readWrite"
 - 下载 Yapi
 
     ```
-    ./download.sh <对应的版本号>
+    ./download.sh 1.8.3
     ```
 - 连接阿里云MongoDB的config.json
     ```
