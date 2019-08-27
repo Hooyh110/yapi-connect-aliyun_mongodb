@@ -1,0 +1,7 @@
+{
+    "port": "3000",
+	"adminAccount": "***@***.***",
+    "db": {
+	  "connectString": "mongodb://<db_user>:<db_password>@<db_connect1>:<db_port>,<db_connect2>:<db_port>/<db_user>?replicaSet=<*****>&authSource=<db_name>"
+    }
+ }
