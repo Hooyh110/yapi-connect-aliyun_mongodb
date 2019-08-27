@@ -69,16 +69,4 @@ db.createUser({user:"<db_user>",pwd:"<db_password>", roles: [{ role: "readWrite"
 
 - 访问 http://127.0.0.1:3001/
 
-    ![](http://cdn.heroxu.com/2019080815652468118063.png)
 
-## 使用 Rancher 部署
-
-- 配置环境变量
-
-    ![](http://cdn.heroxu.com/20190808156524572847385.png)
-
-- 部署完成
-
-    ![](http://cdn.heroxu.com/20190808156524588021590.png)
-
-    ![](http://cdn.heroxu.com/20190808156524581769215.png)
